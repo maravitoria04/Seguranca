@@ -1,25 +1,26 @@
-# Implementação da Cifra Playfair
+# Implementação da Cifra Playfair (Relatório)
 A cifra Playfair é uma substituição polialfabética em bloco bigrâmico (ou digrâmico). Nesta substituição,as letras são 
 tomadas duas a duas (bloco bigrâmico), de acordo com regras aplicadas a uma grade de 5 por 5 que contém o alfabeto cifrante. Foi 
 criada por Charles Wheatstone, a cifra Playfair foi apresentada em 1854 em um jantar oferecido pelo lorde Granville. [Ver mais](https://pt.wikipedia.org/wiki/Cifra_Playfair)
-## Equipe
+
+## Dupla
 [Jardel Gonçalves](https://github.com/JardelGoncalves/)<br>
 [Mara Vitória](https://github.com/maravitoria04/)
 <br>
 
-## Desenvolvimento
-A Mara Vitoria tem conhecimento na linguagem java, já eu tenho mais conhecimento em Python e sugeri fazermos esta implementação 
-em python pela facilidade de compreensão da linguagem e pelo grau de dificuldade da implementação. Porem ela não programa em python a 
-um bom tempo então tiramos um tempinho em dois dias para que eu pudesse ensinar algumas coisas de python para ela (sintaxe, estrutura de 
-repetição, condicionais, entrada de dados e etc...).<br>
-Com o basico aprendido começamos a implementar porem ainda não em codigo, desenvolvemos um fluxograma para facilitar a compreensão 
-do problema e dividir o problema em partes. Tendo toda essa compreensão do problema, ela me ajudou a fazer algumas funções (
-`montar_matriz()`, `imprimir_matriz_5x5()`, `monta_pares()` e `cifrar()`), as demais eu implementei só por questões de horarios/distancia.
-<br>
-Vimos algumas implementações da cifra Playfair porem muitas delas utilizava conceitos de Orientação a Objetos o que achamos que não 
-seria necessario ([Ver implementação](https://siriarah.wordpress.com/2016/05/06/criptografia-cifra-playfair-em-python/)), encontramos 
-outro que nos ajudou em algumas regras, como por exemplo bloco de duas letras seguidas iguais e algumas regras na parte de cifragem (
-[Ver implementação](https://github.com/justworm/playfair-cipher/blob/master/playfair.py))<br>
+
+## O que você sabe fazer do que está sendo apresentado?
+Somente as funções montar_matriz(),imprimir_matriz(),montar_pares() e cifrar().
+
+##O que você aprendeu e o que ainda tem dificuldade?
+Encontrei dificuldades em relação a python, pois já faz um bom tempo que não programo na linguegem, mas como era mais simples implementar em python do que em java, tirei um tempo para estudar mais da sintaxe para que podessemos enfim começar o trabalho. Com essa atividade pude rever um pouco da linguagem, pois já fazia um bom tempo que não usava.
+
+
+##Como vocês dividiram/fizeram a atividade?
+Por conta das distância,horarios e do meu vago conhecimento em python, fizemos juntos as funções: montar_matriz(),imprimir_matriz_5x5(),montar_pares() e cifrar().O restantes das funções o Jardel fez em sozinho, pois ele tem mais aproximidade com a linguagem.
+
+## Quanto tempo você gastou no total na atividade?
+Pelo fato que eu não lembrar da sintaxe da linguagem, passamos 3 horas revisando e logo após implementados as funcões citadas acima.
 
 ## Informações
 Foi utilizado a versão 3.x do Python, caso utilize a versão 2.x erros por causa de palavras acentuadas podem vir ocorrer para 
