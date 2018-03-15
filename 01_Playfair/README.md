@@ -20,7 +20,7 @@ Encontrei dificuldades em relação a python, pois já faz um bom tempo que não
 Por conta das distância,horarios e do meu vago conhecimento em python, fizemos juntos as funções: montar_matriz(),imprimir_matriz_5x5(),montar_pares() e cifrar().O restantes das funções o Jardel fez em casa sozinho, pois ele tem mais aproximidade com a linguagem.
 
 ## Quanto tempo você gastou no total na atividade?
-Pelo fato que eu não lembrar da sintaxe da linguagem, passamos 3 horas revisando e logo após implementamos as funcões citadas acima.
+Pelo fato de não lembrar da sintaxe da linguagem, passamos 3 horas revisando e logo após implementamos as funcões citadas acima.
 
 ## Informações
 Foi utilizado a versão 3.x do Python, caso utilize a versão 2.x erros por causa de palavras acentuadas podem vir ocorrer para 
