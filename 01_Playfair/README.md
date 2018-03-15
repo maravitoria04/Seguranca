@@ -16,7 +16,7 @@ Somente as funções montar_matriz(),imprimir_matriz(),montar_pares() e cifrar()
 Encontrei dificuldades em relação a python, pois já faz um bom tempo que não programo na linguegem, mas como era mais simples implementar em python do que em java, tirei um tempo para estudar mais da sintaxe para que podessemos enfim começar o trabalho. Com essa atividade pude rever um pouco da linguagem, pois já fazia um bom tempo que não usava.
 
 
-##Como vocês dividiram/fizeram a atividade?
+## Como vocês dividiram/fizeram a atividade?
 Por conta das distância,horarios e do meu vago conhecimento em python, fizemos juntos as funções: montar_matriz(),imprimir_matriz_5x5(),montar_pares() e cifrar().O restantes das funções o Jardel fez em casa sozinho, pois ele tem mais aproximidade com a linguagem.
 
 ## Quanto tempo você gastou no total na atividade?
