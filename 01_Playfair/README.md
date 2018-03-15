@@ -12,7 +12,7 @@ criada por Charles Wheatstone, a cifra Playfair foi apresentada em 1854 em um ja
 ## O que você sabe fazer do que está sendo apresentado?
 Somente as funções montar_matriz(),imprimir_matriz(),montar_pares() e cifrar().
 
-##O que você aprendeu e o que ainda tem dificuldade?
+## O que você aprendeu e o que ainda tem dificuldade?
 Encontrei dificuldades em relação a python, pois já faz um bom tempo que não programo na linguegem, mas como era mais simples implementar em python do que em java, tirei um tempo para estudar mais da sintaxe para que podessemos enfim começar o trabalho. Com essa atividade pude rever um pouco da linguagem, pois já fazia um bom tempo que não usava.
 
 
