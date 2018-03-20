@@ -1,7 +1,5 @@
 # Respondendo as perguntas da aula s03e02
 
-# Respostas das perguntas da aula s03e02
-
 ## O que foi feito da atividade e o que não foi feito.
 Foram respondido questões propostas em sala de aula sobre alguns conceitos que Segurança da Informação abrange.
 <br>
