@@ -1,6 +1,6 @@
 # Implementar o algoritmo de vigenere (Relatório)
 A cifra de Vigenère é um método de criptografia que usa uma série de diferentes cifras de César baseadas em letras de uma senha. Trata-se de uma versão simplificada de uma mais geral cifra de substituição polialfabética, inventada por Leone Battista Alberti cerca de 1465.. [Ver mais](https://pt.wikipedia.org/wiki/Cifra_de_Vigenère)
-## Equipe
+## Dupla
 [Jardel Gonçalves](https://github.com/JardelGoncalves/)<br>
 [Mara Vitória](https://github.com/maravitoria04/)
 <br>
