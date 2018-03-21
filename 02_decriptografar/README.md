@@ -1,4 +1,4 @@
-# implementar o algoritmo de vigenere (Relatório)
+# Implementar o algoritmo de vigenere (Relatório)
 A cifra de Vigenère é um método de criptografia que usa uma série de diferentes cifras de César baseadas em letras de uma senha. Trata-se de uma versão simplificada de uma mais geral cifra de substituição polialfabética, inventada por Leone Battista Alberti cerca de 1465.. [Ver mais](https://pt.wikipedia.org/wiki/Cifra_de_Vigenère)
 ## Equipe
 [Jardel Gonçalves](https://github.com/JardelGoncalves/)<br>
@@ -6,16 +6,22 @@ A cifra de Vigenère é um método de criptografia que usa uma série de diferen
 <br>
 
 ## O que você sabe fazer do que está sendo apresentado?
+Como já estou um pouco mais familiarizada com python e a cifra de vigenere é bem mais simples, sei fazer todo o algoritmo.
+
+
 Apesar de precisar apenas da parte de descriptografia, tivemos que fazer a implementação da criptografia para de fato entender melhor o funcionamento do algoritmo para de fato apresentarmos a função de descriptografia, tendo isso em mente sei implementar completamente a cifra de vigenere.
 
 ## Como vocês dividiram/fizeram a atividade?
-Tiramos um dia a tarde para fazermos o algoritmo juntos, por ser mais simples conseguimos terminar no mesmo dia, juntos implementamos`cifrar(m,k)` e `descifrar(mc,k)`, executamos o codigo que demorou um poquinho para acharmos a chave (muito usual na vida de um universitario da UFC). Como a execução demorava, decidimos usar arquivos para fazer uns backups, como possiveis chaves e ultima chave testada, e para isso decidimos implementar a função `brutalforce()` que mexe com arquivos em python para realiar essas funcionalidades<br>
+Como já haviamos implementado o algoritmo de Playflair na atividade passada, essa atividade proposta foi mais simples de implementar.Implementamos juntos as funções `cifrar(m,k)` e `descifrar(mc,k)`. Mas com a demora para executar e encontrar a chave, decidimos criar outra função `brutalforce()` usando arquivos para fazer o backup das possíveis chaves e a última chave testada.<br>
+
 
 ## O que você aprendeu e o que ainda tem dificuldade?
-Fazia tempo que não trabalho com arquivos então foi bom para dar uma revisada sobre isso e para começar a estudar expressões regulares. Minha dificuldade é trabalhar com expressões regulares onde não consegui trabalhar com elas em python.<br>
+A maior dificuldade foi em relação a usar arquivos, pois nunca tinha usado anteriormente.Ṕor esse motivo tive que estudar um pouco como funciona, e isso serviu de aprendizado para próximos trabalhos. 
+
 
 ## Quanto tempo você gastou no total na atividade?
-Gastamos 3 horas para implementar, agora para achar a chave... Foi tempo, menos de 24 horas.
+O tempo gasto foi em torno de 3 horas para implementar a cifra, e para achar a chave foi menos de 24 horas.
+
 
 ## Informações
 Foi utilizado a versão 3.x do Python, caso utilize a versão 2.x erros por causa de palavras acentuadas podem vir ocorrer para 
