@@ -23,11 +23,11 @@ O tempo gasto foi em torno de 20 a 30 minutos.
 
 Alguns passos são ilustrandos nas imagens a seguir, e os demais passos podem ser visto no github do aluno [Jardel](https://github.com/JardelGoncalves/SegurancaDaInformacao/tree/master/04_gpg)
 
-![imagen](imagens/0.jpg)
+![imagen](Imagens/0.jpg)
 
-![imagen](imagens/1.jpg)
+![imagen](Imagens/1.jpg)
 
-![imagen](imagens/2.jpg)
+![imagen](Imagens/2.jpg)
 
 
 
